@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bedrock-capistrano-uploads (0.0.2)
+    bedrock-capistrano-uploads (0.0.1)
       capistrano (>= 3.0.0.pre)
       dotenv (>= 2.0.1)
 
